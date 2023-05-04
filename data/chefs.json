@@ -3,8 +3,9 @@
     "id": 1234,
     "chef_picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
     "chef_name": "Yan Kit So ",
+    "bio": "Yan-Kit So was a Chinese food writer, teacher, and television presenter based in London. She wrote numerous books on Chinese cooking and was a regular guest on British television shows.",
     "years_of_experience": 10,
-    "number_of_recipes": 25,
+    "number_of_recipes": 3,
     "likes": 1000,
     "recipes": [
       {
@@ -65,8 +66,9 @@
     "id": 5678,
     "chef_picture": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1387&q=80",
     "chef_name": "Martin Yan",
+    "bio": "Martin Yan is a Chinese-American chef and television presenter. He is best known for hosting the TV show Yan Can Cook, which introduced viewers to traditional Chinese cooking techniques.",
     "years_of_experience": 8,
-    "number_of_recipes": 42,
+    "number_of_recipes": 3,
     "likes": 2500,
     "recipes": [
       {
@@ -117,8 +119,9 @@
     "id": 9012,
     "chef_picture": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
     "chef_name": "Ken Hom",
+    "bio": "Ken Hom is a Chinese-American chef, restaurateur, and author based in the UK. He has written numerous cookbooks and is best known for his TV show Ken Hom's Chinese Cookery.",
     "years_of_experience": 12,
-    "number_of_recipes": 63,
+    "number_of_recipes": 3,
     "likes": 5000,
     "recipes": [
       {
@@ -181,8 +184,9 @@
     "id": 3456,
     "chef_picture": "https://images.unsplash.com/photo-1518148750009-25b2522df9c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
     "chef_name": "Ming Tsai ",
+    "bio": "Ming Tsai is an American chef and television personality. He is best known for his TV show Simply Ming and for his fusion cuisine that combines traditional Chinese flavors with other international ingredients and techniques.",
     "years_of_experience": 15,
-    "number_of_recipes": 78,
+    "number_of_recipes": 3,
     "likes": 10000,
     "recipes": [
       {
@@ -236,8 +240,9 @@
     "id": 7890,
     "chef_picture": "https://images.unsplash.com/photo-1641536618422-2cf0bbd10014?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80",
     "chef_name": "David Chang",
+    "bio": "David Chang is a Korean-American chef and restaurateur. He is the founder of the Momofuku restaurant group and is known for his innovative and often unconventional approach to cooking.",
     "years_of_experience": 8,
-    "number_of_recipes": 45,
+    "number_of_recipes": 3,
     "likes": 7500,
     "recipes": [
       {
@@ -289,8 +294,9 @@
     "id": 12034,
     "chef_picture": "https://images.unsplash.com/photo-1592498546551-222538011a27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
     "chef_name": "Andrew Wong",
+    "bio": "Andrew Wong is a British-Chinese chef and restaurateur. He is the owner of the Michelin-starred restaurant A. Wong in London, which specializes in traditional and contemporary Chinese cuisine.",
     "years_of_experience": 12,
-    "number_of_recipes": 68,
+    "number_of_recipes": 3,
     "likes": 8000,
     "recipes": [
       {
