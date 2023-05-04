@@ -176,5 +176,171 @@
         "rating": 4.5
       }
     ]
+  },
+  {
+    "id": 3456,
+    "chef_picture": "https://images.unsplash.com/photo-1518148750009-25b2522df9c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "chef_name": "Ming Tsai ",
+    "years_of_experience": 15,
+    "number_of_recipes": 78,
+    "likes": 10000,
+    "recipes": [
+      {
+        "name": "Fried Rice",
+        "ingredients": [
+          "cooked rice",
+          "egg",
+          "vegetables (such as peas, carrots, and onions)",
+          "soy sauce",
+          "sesame oil",
+          "garlic",
+          "green onions"
+        ],
+        "cooking_method": "Heat sesame oil in a wok or large pan. Add garlic and stir until fragrant. Add vegetables and stir until cooked. Add beaten egg and stir until cooked. Add cooked rice, soy sauce, and green onions. Stir until well combined and heated through.",
+        "rating": 4.8
+      },
+      {
+        "name": "Spring Rolls",
+        "ingredients": [
+          "spring roll wrappers",
+          "ground pork",
+          "shrimp",
+          "carrots",
+          "cabbage",
+          "mushrooms",
+          "bean sprouts",
+          "soy sauce",
+          "sesame oil",
+          "garlic"
+        ],
+        "cooking_method": "In a wok or large pan, heat sesame oil and garlic. Add ground pork and shrimp, and stir until cooked. Add vegetables and stir until cooked. Add soy sauce and stir until well combined. Spoon filling onto a spring roll wrapper and roll tightly. Repeat with remaining filling and wrappers. Fry spring rolls until golden brown.",
+        "rating": 4.7
+      },
+      {
+        "name": "Char Siu (Barbecued Pork)",
+        "ingredients": [
+          "pork shoulder",
+          "honey",
+          "hoisin sauce",
+          "soy sauce",
+          "rice wine",
+          "garlic",
+          "five spice powder"
+        ],
+        "cooking_method": "Mix honey, hoisin sauce, soy sauce, rice wine, garlic, and five spice powder. Marinate pork shoulder in the mixture for several hours or overnight. Roast pork in the oven until cooked through and charred on the outside.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": 7890,
+    "chef_picture": "https://images.unsplash.com/photo-1641536618422-2cf0bbd10014?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80",
+    "chef_name": "David Chang",
+    "years_of_experience": 8,
+    "number_of_recipes": 45,
+    "likes": 7500,
+    "recipes": [
+      {
+        "name": "Shrimp and Lobster Sauce",
+        "ingredients": [
+          "shrimp",
+          "ground pork",
+          "fermented black beans",
+          "garlic",
+          "scallions",
+          "eggs"
+        ],
+        "cooking_method": "Stir-fry garlic, scallions, and fermented black beans. Add ground pork and shrimp, and stir-fry until cooked. Add eggs and stir until they are scrambled. Serve with steamed rice.",
+        "rating": 4.5
+      },
+      {
+        "name": "General Tso's Chicken",
+        "ingredients": [
+          "chicken thighs",
+          "cornstarch",
+          "soy sauce",
+          "rice vinegar",
+          "sugar",
+          "garlic",
+          "ginger",
+          "dried chili peppers"
+        ],
+        "cooking_method": "Marinate chicken in cornstarch and soy sauce, then fry until crispy. Stir-fry garlic, ginger, dried chili peppers, and a sauce made with soy sauce, rice vinegar, and sugar. Add the fried chicken and toss until coated. Serve with steamed broccoli and rice.",
+        "rating": 4.8
+      },
+      {
+        "name": "Shanghai Noodles",
+        "ingredients": [
+          "shanghai noodles",
+          "ground pork",
+          "soy sauce",
+          "dark soy sauce",
+          "sugar",
+          "garlic",
+          "scallions",
+          "vegetable oil"
+        ],
+        "cooking_method": "Boil shanghai noodles, then drain and rinse with cold water. Stir-fry garlic, scallions, and ground pork. Add the noodles and stir-fry with soy sauce, dark soy sauce, and sugar. Serve hot.",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "id": 12034,
+    "chef_picture": "https://images.unsplash.com/photo-1592498546551-222538011a27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "chef_name": "Andrew Wong",
+    "years_of_experience": 12,
+    "number_of_recipes": 68,
+    "likes": 8000,
+    "recipes": [
+      {
+        "name": "Sweet and Sour Pork",
+        "ingredients": [
+          "pork",
+          "cornstarch",
+          "soy sauce",
+          "rice vinegar",
+          "ketchup",
+          "brown sugar",
+          "pineapple",
+          "green pepper",
+          "onion",
+          "oil"
+        ],
+        "cooking_method": "Coat pork with cornstarch and soy sauce, then fry in oil until golden brown. In a separate pan, saute pineapple, green pepper, and onion. Mix rice vinegar, ketchup, brown sugar, and water in a saucepan, then add to the pan with the pineapple mixture. Add the fried pork to the sauce and simmer until everything is cooked through.",
+        "rating": 4.8
+      },
+      {
+        "name": "Steamed Fish",
+        "ingredients": [
+          "fish",
+          "ginger",
+          "scallions",
+          "soy sauce",
+          "sesame oil"
+        ],
+        "cooking_method": "Lay ginger and scallions on a plate, then place the fish on top. Steam the fish for 10-12 minutes. In a separate bowl, mix soy sauce and sesame oil. Pour the sauce over the fish and serve.",
+        "rating": 4.6
+      },
+      {
+        "name": "Dan Dan Noodles",
+        "ingredients": [
+          "noodles",
+          "ground pork",
+          "soy sauce",
+          "black vinegar",
+          "chili oil",
+          "garlic",
+          "ginger",
+          "scallions",
+          "peanut butter",
+          "chicken stock",
+          "sesame oil",
+          "Sichuan peppercorns"
+        ],
+        "cooking_method": "Cook noodles according to package instructions. In a separate pan, brown ground pork, garlic, ginger, and scallions. Add soy sauce, black vinegar, chili oil, chicken stock, and Sichuan peppercorns to the pan and simmer for a few minutes. In a separate bowl, mix peanut butter and sesame oil. Add the cooked noodles to the pan with the pork mixture and stir to combine. Serve with the peanut butter mixture on top.",
+        "rating": 4.9
+      }
+    ]
   }
 ]
